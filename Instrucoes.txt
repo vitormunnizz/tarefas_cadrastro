@@ -1,0 +1,8 @@
+Imagine que você foi contratado por uma startup para criar o design inicial de uma dashboard de controle de tarefas. Essa plataforma será usada pelos colaboradores para organizar suas atividades diárias de maneira eficiente. O objetivo é que o layout seja funcional e esteticamente agradável, utilizando apenas HTML e CSS. Sua tarefa é desenvolver uma página web que represente essa dashboard. Ela deve incluir um cabeçalho fixo, uma barra lateral de navegação com categorias, e uma área principal que exiba uma lista de tarefas. As tarefas devem estar classificadas por prioridade (alta, média, baixa) e visualmente diferenciadas por cores.
+
+Requisitos Mínimos:
+
+Cabeçalho fixo: Inclua um título e um botão para "Adicionar Tarefa".
+Barra lateral: Crie links para categorias como "Todas as Tarefas", "Trabalho", "Pessoais", "Prioridade Alta", e "Finalizadas".
+Área principal: Exiba pelo menos 3 tarefas com diferentes prioridades (alta, média, baixa) e estilos visuais específicos para cada uma.
+Estilização: Use CSS para adicionar estilos, incluindo cores, margens, espaçamentos, positions e efeitos como sombras.
